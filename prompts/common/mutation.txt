@@ -1,0 +1,17 @@
+{user_generator}
+
+[Prior reflection]
+{reflection}
+
+[Code]
+{func_signature1}
+{elitist_code}
+
+[Thoughts]
+{elitist_thoughts}
+
+[Improved code]
+Please write a mutated function `{func_name}_v2`, according to the reflection.
+Your output must strictly follow:
+Thoughts: ...
+Codes: ```python ... ```

@@ -1,0 +1,6 @@
+{seed_func}
+
+Refer to the format of a trivial design above. Be very creative and give `{func_name}_v2`.
+Your output must strictly follow:
+Thoughts: ...
+Codes: ```python ... ```

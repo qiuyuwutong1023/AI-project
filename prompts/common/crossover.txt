@@ -1,0 +1,24 @@
+{user_generator}
+
+[Worse code]
+{func_signature0}
+{worse_code}
+
+[Worse thoughts]
+{worse_thoughts}
+
+[Better code]
+{func_signature1}
+{better_code}
+
+[Better thoughts]
+{better_thoughts}
+
+[Reflection]
+{reflection}
+
+[Improved code]
+Please write an improved function `{func_name}_v2`, according to the reflection.
+Your output must strictly follow:
+Thoughts: ...
+Codes: ```python ... ```
